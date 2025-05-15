@@ -1804,3 +1804,6 @@ PRODUCT_PACKAGES += \
     manifest_oplus_cameraextension \
     manifest_oplus_cammidasservice \
     manifest_oplus_fingerprint
+
+PRODUCT_BOOT_JARS += \
+    WfdCommon
